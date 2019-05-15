@@ -1,6 +1,6 @@
 = Editors +
 
-include::../descriptions/atom.adoc
+include::../descriptions/atom.adoc[]
 
 = Publishing Tools
 
