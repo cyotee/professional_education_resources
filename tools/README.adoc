@@ -3,7 +3,9 @@
 link:../README.adoc[Front Page]
 
 link:by_cost/free.adoc[Free Tools]
+
 link:by_cost/freemium.adoc[Freemium Tools]
+
 link:by_cost/paid.adoc[Paid Tools]
 
 You'll need some tools to learn anything.
