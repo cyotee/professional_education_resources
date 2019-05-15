@@ -1,0 +1,4 @@
+link:https://atom.io/[Atom]
+
+A robust text editor with plugins to assist in developing in any major programming language.
+Including plugins to simplifies publishing your work to sites like GitHub.
