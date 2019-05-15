@@ -1,2 +1,18 @@
+:toc:
+
 = Professional Development and Administration Educational Resources
+
 A selection of resources for education in software development and system administration.
+The selection of resources is based on viability of learning professional skills.
+
+link:tools/README.adoc[Development Tools]
+
+You'll need some tools to learn anything.
+
+link:development/README.adoc[Development Courses]
+
+ Where to learn the 1337 skillz to pay the billz.
+
+ link:administration/README.adoc[Administration Courses]
+
+ Where to get the skillz to manage the machines that run the world.
