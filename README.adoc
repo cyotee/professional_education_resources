@@ -13,6 +13,6 @@ link:development/README.adoc[Development Courses]
 
  Where to learn the 1337 skillz to pay the billz.
 
- link:administration/README.adoc[Administration Courses]
+link:administration/README.adoc[Administration Courses]
 
  Where to get the skillz to manage the machines that run the world.

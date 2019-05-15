@@ -12,7 +12,7 @@ In this list you'll find tools professionals use.
 
 These tools break down into a few simple categories.
 
-== link:by_type/editors.adoc[Editors]
+link:by_type/editors.adoc[Editors]
 Applications to edit files.
 
 Development and administration can get complicated.
